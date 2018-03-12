@@ -8,10 +8,10 @@
 
 #import "WUFileOperation.h"
 #import <UIKit/UIKit.h>
-@interface TXFileOperation()
+@interface WUFileOperation()
 @property (nonatomic, strong) NSFileManager *manager;
 @end
-@implementation TXFileOperation
+@implementation WUFileOperation
 #pragma mark - 沙盒目录相关
 /**
  主目录，tmp目录路径可直接获取

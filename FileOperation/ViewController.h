@@ -10,7 +10,7 @@
 
 @interface ViewController : UIViewController
 @property (weak, nonatomic) IBOutlet UITextView *textView;
-- (IBAction)button:(id)sender;
+- (IBAction)senders:(id)sender;
 
 @end
 

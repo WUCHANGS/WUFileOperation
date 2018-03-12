@@ -24,8 +24,7 @@
     // Dispose of any resources that can be recreated.
 }
 
-
-- (IBAction)button:(id)sender {
+- (IBAction)senders:(id)sender {
     //获取documents路径
     NSString * documentsDirPath=[WUFileOperation documentsDir];
     //文件夹名称
